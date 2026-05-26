@@ -1,0 +1,66 @@
+spoon|n.|勺子|Please pass me the ______.
+premier|n./adj.|总理；首要的|The ______ will give a speech tomorrow.
+actual|adj.|实际的；真实的|The ______ cost was higher than expected.
+check|v./n.|检查；核对|Did you ______ the answers carefully?
+architect|n.|建筑师|The ______ designed a modern building.
+please|int./v.|请；取悦|______ close the door.
+pleasing|adj.|令人愉快的|The music is very ______ to the ear.
+reserve|v./n.|预订；储备|We need to ______ a table for six.
+reservation|n.|预订；保留|I have a ______ under the name of Li.
+without|prep.|没有|He left ______ saying goodbye.
+abroad|adv.|在国外|She wants to study ______ next year.
+track|n./v.|轨道；追踪|The police tried to ______ the suspect.
+against|prep.|反对；靠着|He leaned his bike ______ the wall.
+pregnant|adj.|怀孕的|She is ______ with her first child.
+major|adj./n.|主要的；专业|Math is his ______ at university.
+glad|adj.|高兴的|I’m ______ to meet you.
+neighbourhood|n.|社区；邻近地区|This is a quiet ______.
+enjoyable|adj.|愉快的|The movie was very ______.
+symbol|n.|象征；符号|The dove is a ______ of peace.
+line|n./v.|线；排队|Please ______ up outside the door.
+communism|n.|共产主义|He studied the history of ______.
+terrible|adj.|可怕的；糟糕的|The weather was ______ yesterday.
+term|n.|学期；术语|The medical ______ is hard to remember.
+in terms of|prep.|就...而言|______ money, he is rich.
+sorrow|n.|悲伤|He expressed deep ______.
+devote|v.|奉献|She wants to ______ her life to art.
+devoted|adj.|忠诚的|He is a ______ friend.
+devotion|n.|奉献；热爱|Her ______ to work is admirable.
+passage|n.|通道；段落|Read the ______ and answer questions.
+sniff|v.|嗅；吸气|The dog ______ at the ground.
+accurate|adj.|准确的|The report is ______.
+inaccurate|adj.|不准确的|His answer was ______.
+accuracy|n.|准确性|I doubt the ______ of this data.
+chart|n.|图表|Look at the ______ on page 5.
+reputation|n.|名声|The school has a good ______.
+event|n.|事件|The main ______ starts at 3 pm.
+guard|n./v.|警卫；保护|The ______ checked our IDs.
+guardian|n.|监护人|His legal ______ signed the form.
+urge|v./n.|敦促；冲动|I ______ you to be careful.
+triangle|n.|三角形|Draw a right ______.
+would|aux.|将会|______ you like some coffee?
+erupt|v.|爆发|The volcano may ______ soon.
+eruption|n.|爆发|The ______ caused chaos.
+aim|v./n.|瞄准；目标|His ______ is to become a doctor.
+capsule|n.|胶囊；太空舱|Take one ______ after a meal.
+pause|v./n.|暂停|Hit the ______ button.
+cancel|v.|取消|We had to ______ the trip.
+play|v./n.|玩；戏剧|The children ______ outside.
+player|n.|运动员；播放器|He is a skilled piano ______.
+playful|adj.|爱玩的|The puppy was ______.
+universal|adj.|普遍的；宇宙的|Music is a ______ language.
+bury|v.|埋葬|They will ______ the time capsule.
+tendency|n.|倾向|He has a ______ to talk loudly.
+hesitate|v.|犹豫|Please don’t ______ to ask.
+switch|n./v.|开关；转换|Can you ______ the light on?
+alcoholic|adj./n.|酒精的；酗酒者|He used to be an ______.
+often|adv.|经常|How ______ do you exercise?
+more often than not|adv.|通常|______, he arrives late.
+crew|n.|全体人员|The ______ works hard.
+average|adj./n.|平均的；平均数|His grades are above ______.
+swear|v.|发誓；咒骂|Please don’t ______ in class.
+weak|adj.|虚弱的|The old dog is ______.
+weakness|n.|弱点|Everyone has a ______.
+export|v./n.|出口|The country ______ rice.
+candidate|n.|候选人|She is a strong ______ for the job.
+burden|n./v.|负担|Don’t ______ yourself with guilt.
